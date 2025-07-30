@@ -1,6 +1,6 @@
 import React from 'react';
 import { google, slack, atlassian, dropbox, shopify } from './import';
-import './brand.css';
+import './Brand.css';
 
 const Brand = () => (
   <div className="gpt3__brand section__padding">
